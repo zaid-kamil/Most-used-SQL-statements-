@@ -189,8 +189,8 @@ SELECT order_date, order_amount,
 FROM orders;
 ```
 
-
 This query calculates a 3-day moving average of `order_amount`, including the current day and the two preceding days.
+
 ---
 By mastering these 10 SQL statements, you'll be able to handle 90% of your data science tasks efficiently.
 ---
